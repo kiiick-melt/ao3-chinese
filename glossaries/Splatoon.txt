@@ -1,0 +1,85 @@
+版本号：1.0.0
+维护者：Melting
+更新时间：2026-06-17
+
+// ============================================
+// 斯普拉遁术语库 - Splatoon
+// ============================================
+
+词条
+//===可操控角色===
+Captain：司令
+Agent 3：三号
+Agent Three：三号
+Three：三号
+Agent 4：四号
+Agent Four：四号
+Four：四号
+Agent 8：八号
+Agent Eight：八号
+Eight：小八
+Neo：新三号
+Mechanic：机械师
+
+//===NPC===
+//==剧情角色==
+Callie：香匙
+Marie：小萤
+Pearl：小姬
+Pearl Drone：小姬无人机
+Marina：饭田
+Shiver：莎莎
+Frye：曼曼
+Big Man：鬼蝠
+Smallfry：小鲑鱼
+Craig Cuttlefish：鱼干
+Cuttlefish：鱼干
+Cuttlefish Captain=鱼干 司令
+"Cap'n"：司令
+DJ Octavio：DJ章鱼芥末将军
+"C.Q.Cumber"：参博列车长
+Acht：水田
+Judd：裁判猫
+"Li'l Judd"：小裁判猫
+"Mr.Grizz"：熊先生
+Iso Padre：Iso神父
+Commander Tartar=指挥官 塔塔
+"O.R.C.A"：海豚豚
+Order：秩序
+//==Bosses==
+//暂空
+//==商人==
+Sheldon：武器子
+Annie 
+Moe
+Jelonzo：越前
+Crusty Sean：阿龙
+Spyke
+Flow
+Craymond
+Jelfonzo：备前
+Bisk
+Murch：刺冠
+Gnarly Eddy
+Nails
+Jel La Fleur：花笠
+"Mr.Coco"：
+
+通用词条：
+//===地名===
+inkopolis：尚兴市
+
+//===店名===
+ammo knights：寒武纪军备
+Cooler Heads
+Jelly Fresh
+Shrimp Kicks
+crust bucket
+headspace
+Ye Olde Cloth Shoppe
+shella fresh
+naut couture
+"Man-o'-Wardrobe"
+
+
+
