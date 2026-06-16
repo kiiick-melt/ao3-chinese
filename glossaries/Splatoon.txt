@@ -7,7 +7,7 @@
 // ============================================
 
 词条
-//===可操控角色===
+//========可操控角色========
 Captain：司令
 Agent 3：三号
 Agent Three：三号
@@ -21,23 +21,23 @@ Eight：小八
 Neo：新三号
 Mechanic：机械师
 
-//===NPC===
-//==剧情角色==
-Callie：香匙
+//========NPC========
+//===剧情角色===
+Callie：小拟
 Marie：小萤
 Pearl：小姬
 Pearl Drone：小姬无人机
 Marina：饭田
 Shiver：莎莎
 Frye：曼曼
-Big Man：鬼蝠
+Big Man：鬼福
 Smallfry：小鲑鱼
 Craig Cuttlefish：鱼干
 Cuttlefish：鱼干
 Cuttlefish Captain=鱼干 司令
 "Cap'n"：司令
 DJ Octavio：DJ章鱼芥末将军
-"C.Q.Cumber"：参博列车长
+"C.Q.Cumber"：坎博列车长
 Acht：水田
 Judd：裁判猫
 "Li'l Judd"：小裁判猫
@@ -46,10 +46,11 @@ Iso Padre：Iso神父
 Commander Tartar=指挥官 塔塔
 "O.R.C.A"：海豚豚
 Order：秩序
-//==Bosses==
+//===Bosses===
 //暂空
 //==商人==
 Sheldon：武器子
+Shelly and Donny：小武器子
 Annie 
 Moe
 Jelonzo：越前
@@ -60,26 +61,89 @@ Craymond
 Jelfonzo：备前
 Bisk
 Murch：刺冠
-Gnarly Eddy
-Nails
+Gnarly Eddy：螺螺
+Nails：田螺店长
 Jel La Fleur：花笠
-"Mr.Coco"：
+"Mr.Coco"：椰子蟹先生
+Harmony：脉子
+Staff：阿嫲
+Fred Crumbs
+Cipher
+
 
 通用词条：
-//===地名===
-inkopolis：尚兴市
+//========组合========
+Squid Sister：潮色姐妹
+Off the Hook：腕儿姐妹
+Deep Cut：鱼浆帮
+Now or Never Seven：Now or Never七人
+New Squidbeak Splatoon：新！喷嘴部队
 
-//===店名===
+//========种族========
+inkling：鱿鱼
+octoling：章鱼
+octarian：章鱼族
+salmonid：鲑鱼
+jellyfish：水母
+zapfish：电池鲶鱼
+giant zapfish：大电池鲶鱼
+super sea snail：超级蝾螺
+jelleton：骨鱼
+
+//========地名========
+inkadia：尚兴地区
+inkopolis：尚兴
+deepsea metro：深海地铁
+splatlands：蛮颓地区
+splatsville：蛮颓镇
+alterna：幻界
+
+//========店名========
 ammo knights：寒武纪军备
+//====一代====
 Cooler Heads
 Jelly Fresh
 Shrimp Kicks
 crust bucket
+//====二代====
 headspace
 Ye Olde Cloth Shoppe
 shella fresh
-naut couture
-"Man-o'-Wardrobe"
+//====三代====
+naut couture：黄金比例
+"Man-o'-Wardrobe"：昔日服装店
+crush station：椰子俱乐部
+hotlantis：龙宫城
+
+//========武器========
+
+
+禁翻词条
+//========乐队========
+Squid Squad
+Chirpy Chips
+Hightide Era
+Bob Dub
+DJ Lee Fish
+Turquoise October
+Wet Floor
+Bottom Feeders
+Ink Theory
+DJ Real Sole
+ω-3
+Dedf1sh
+Diss-Pair
+SashiMori
+C-side
+Front Roe
+Octoplush
+"Yoko & the Gold Bazookas"
+H2Whoa
+Riot Act
+Free Association
+
+
+
 
 
 
