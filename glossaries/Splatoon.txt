@@ -4,6 +4,7 @@
 
 // ============================================
 // 斯普拉遁术语库 - Splatoon
+//--尽量以splatoon3官方翻译为准,如若无标准翻译的一二代内容有误还请海涵
 // ============================================
 
 词条
@@ -47,28 +48,34 @@ Commander Tartar=指挥官 塔塔
 "O.R.C.A"：海豚豚
 Order：秩序
 //===Bosses===
-//暂空
-//==商人==
+Marina Agitando：饭田·踌躇
+Asynchronous Rondo：回转轮舞
+Pinging Marciale：翻滚行进
+Parallel Canon：异界卡农
+
+
+//===商人===
 Sheldon：武器子
-Shelly and Donny：小武器子
-Annie 
-Moe
+Shelly：豆豆武器子
+Donny：粒粒武器子
+Annie：小葵
+Moe：小丑
 Jelonzo：越前
 Crusty Sean：阿龙
-Spyke
-Flow
-Craymond
+Spyke：丹尼
+Flow：海瑜
+Craymond：虾米
 Jelfonzo：备前
-Bisk
+Bisk：蟹尼
 Murch：刺冠
 Gnarly Eddy：螺螺
 Nails：田螺店长
 Jel La Fleur：花笠
 "Mr.Coco"：椰子蟹先生
 Harmony：脉子
-Staff：阿嫲
-Fred Crumbs
-Cipher
+Staff：金鱼阿嫲
+Fred Crumbs：竹荚雄
+Cipher：梦霞
 
 
 通用词条：
@@ -80,7 +87,6 @@ Chirpy Chips：ABXY
 Ink Theory：流裂
 "Diss-Pair"：禁同食
 New Squidbeak Splatoon：NEW！喷嘴部队
-
 //========种族========
 inkling：鱿鱼
 octoling：章鱼
@@ -90,8 +96,7 @@ jellyfish：水母
 zapfish：电池鲶鱼
 giant zapfish：大电池鲶鱼
 super sea snail：超级蝾螺
-jelleton：骨鱼
-
+jelleton：骷髅鱼
 //========地名========
 inkadia：尚兴地区
 inkopolis：尚兴
@@ -99,18 +104,45 @@ deepsea metro：深海地铁
 splatlands：蛮颓地区
 splatsville：蛮颓
 alterna：幻界
-
+order sector：秩序之城
+//========场地名========
+Scorch Gorge：温泉花大峡谷
+Eeltail Alley：鳗鲶区
+Hagglefish Market：烟管鱼市场
+Undertow Spillway：竹蛏疏洪道
+Mincemeat Metalworks：鱼肉碎金属
+Hammerhead Bridge：真鲭跨海大桥
+"Museum d'Alfonsino"：金眼鲷美术馆
+"Mahi-Mahi Resort"：鬼头刀SPA度假区
+Inkblot Art Academy：海女美术大学
+Sturgeon Shipyard：鲟鱼造船厂
+MakoMart：座头购物中心
+Wahoo World：醋饭海洋世界
+Brinewater Springs：臭鱼干温泉
+Flounder Heights：比目鱼住宅区
+"Um'ami Ruins"：鱼露遗迹
+Manta Maria：鬼蝠鲼玛利亚号
+"Barnacle & Dime"：塔拉波特购物公园
+Humpback Pump Track：昆布赛道
+Crableg Capital：高脚经济特区
+"Shipshape Cargo Co."：大比目鱼海运中心
+"Robo ROM-en"：贝见亭
+Bluefin Depot：葱鲔鱼煤矿场
+Marlin Airport：旗鱼机场
+Lemuria Hub：龙宫转运站
+Grand Splatlands Bowl：蛮颓大巨蛋
+Urchin Underpass：十路通高架桥下
 //========店名========
 ammo knights：寒武纪军备
 //====一代====
-Cooler Heads
-Jelly Fresh
-Shrimp Kicks
+Cooler Heads：御首堂
+Jelly Fresh：刺胞服装店
+Shrimp Kicks：惠比寿鞋店
 crust bucket
 //====二代====
-headspace
-Ye Olde Cloth Shoppe
-shella fresh
+headspace：僧帽之帽
+Ye Olde Cloth Shoppe：暮日服装店
+shella fresh：鞋痴浪子
 //====三代====
 naut couture：黄金比例
 "Man-o'-Wardrobe"：昔日服装店
@@ -118,7 +150,132 @@ crush station：椰子俱乐部
 hotlantis：龙宫城
 
 //========武器========
-
+rainmaker：鱼虎
+//=====主武器=====
+//===射击枪===
+shooter：射击枪
+Sploosh-o-matic：广域标记枪
+"Splattershot Jr."：新叶射击枪
+Splash-o-matic：窄域标记枪
+Aerospray MG=专业模型枪 MG
+Aerospray RG=专业模型枪 RG
+Splattershot：斯普拉射击枪
+".52 Gal"：.52加仑
+Splattershot Pro：顶尖射击枪
+".96 Gal"：.96加仑
+Jet Squelcher：喷射清洁枪
+Splattershot Nova：太空射击枪
+//===半自动===
+"L-3 Nozzlenose"：L3卷管枪
+"H-3 Nozzlenose"：H3卷管枪
+Squeezer：开瓶喷泉枪
+//===滚筒===
+roller：滚筒
+Carbon Roller：碳纤维滚筒
+Splat Roller：斯普拉滚筒
+Dynamo Roller：电动马达滚筒
+Flingza Roller：可变式滚筒
+Big Swig Roller：宽滚筒
+//===蓄力狙击枪===
+charger：蓄力狙击枪
+Squiffer：鱿快洁
+Splat Charger：斯普拉蓄力狙击枪
+Splatterscope：斯普拉准星枪
+"E-liter 4K"：公升4K
+"E-liter 4K Scope"：4K准星枪
+Bamboozler 14 Mk：14式竹筒枪
+Goo Tuber：高压油管枪
+Snipewriter：R-PEN
+//===泼桶===
+Slosher：飞溅泼桶
+"Tri-Slosher"：洗笔桶
+Sloshing Machine：回旋泼桶
+Bloblobber：满溢泡澡泼桶
+Explosher：爆炸泼桶
+Dread Wringer：墨瀑淋
+//===旋转枪===
+splatling：旋转枪
+Mini Splatling：斯普拉旋转枪
+Heavy Splatling：桶装旋转枪
+Hydra Splatling：消防栓旋转枪
+Ballpoint Splatling：圆珠笔
+Nautilus：鹦鹉螺号
+Heavy Edit Splatling：审查者
+//===机动枪===
+dualies：机动枪
+Dapple Dualies：溅镀枪
+Splat Dualies：斯普拉机动枪
+Glooga Dualies：开尔文525
+Dualie Squelchers：双重清洁枪
+Tetra Dualies：四重弹跳手枪
+Douser Dualies FF：灭熄FF
+//===防空伞===
+brella：防空伞
+Splat Brella：遮阳防空伞
+Tenta Brella：露营防空伞
+Undercover Brella：特工配件
+Recycled Brella 24：24式可替换伞
+//===爆破枪===
+Luna Blaster：新星爆破枪
+blaster：火热爆破枪
+Range Blaster：远距爆破枪
+Clash Blaster：冲涂爆破枪
+Rapid Blaster：快速爆破枪
+Rapid Blaster Pro：快速爆破枪 精英
+//===画笔===
+inkbrush：巴勃罗
+octobrush：北斋
+painbrush：文森
+//==猎鱼弓===
+stringer：猎鱼弓
+"Tri-Stringer"：三发猎鱼弓
+"REEF-LUX 450"：LACT-450
+Wellstring V：邦普V
+//==刮水刀===
+splatana：刮水刀
+Splatana Stamper：工作刮水刀
+Splatana Wiper：雨刷刮水刀
+Decavitator：巨齿刮水刀
+//=====次要武器=====
+sub weapon：次要武器
+Splat Bomb：斯普拉炸弹
+Suction Bomb：吸盘炸弹
+Burst Bomb：快速炸弹
+Curling Bomb：冰壶炸弹
+Autobomb：机器人炸弹
+Ink Mine：墨汁陷阱
+Toxic Mist：毒雾
+Point Sensor：定点侦测器
+Splash Wall：斯普拉防护墙
+Sprinkler：洒墨器
+Squid Beakon：跳跃信标
+Fizzy Bomb：碳酸炸弹
+Torpedo：鱼雷
+Angle Shooter：标线器
+//=====特殊武器=====
+Special weapon：特殊武器
+Big Bubbler：巨大防护罩
+Booyah Bomb：赞气蛋
+Crab Tank：螃蟹坦克
+Ink Storm：墨雨云
+Ink Vac：吸墨机
+Inkjet：喷射背包
+"Killer Wail 5.1"：镭射喇叭5.1ch
+Kraken Royale：帝王鱿鱼
+Reefslider：鲨鱼坐骑
+Splattercolor Screen：
+Super Chump：诱饵烟花
+Tacticooler：能量站
+Tenta Missiles：多重导弹
+Triple Inkstrike：三重龙卷风
+Triple Splashdown：终极着陆
+Trizooka：终极发射
+Ultra Stamp：终极印章
+Wave Breaker：弹跳声呐
+Zipcaster：触手喷射
+//=======杂项=======
+booyah：赞
+Calamari Inkantation：盐辛节
 
 禁翻词条
 //========乐队========
@@ -143,8 +300,8 @@ Riot Act
 Free Association
 
 //========武器=======
-"N-ZAP'85"
-"N-ZAP'89"
+"N-ZAP"
+"S-BLAST"
 
 
 
