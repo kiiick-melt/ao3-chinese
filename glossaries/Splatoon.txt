@@ -76,8 +76,10 @@ Cipher
 Squid Sister：潮色姐妹
 Off the Hook：腕儿姐妹
 Deep Cut：鱼浆帮
-Now or Never Seven：Now or Never七人
-New Squidbeak Splatoon：新！喷嘴部队
+Chirpy Chips：ABXY
+Ink Theory：流裂
+"Diss-Pair"：禁同食
+New Squidbeak Splatoon：NEW！喷嘴部队
 
 //========种族========
 inkling：鱿鱼
@@ -95,7 +97,7 @@ inkadia：尚兴地区
 inkopolis：尚兴
 deepsea metro：深海地铁
 splatlands：蛮颓地区
-splatsville：蛮颓镇
+splatsville：蛮颓
 alterna：幻界
 
 //========店名========
@@ -120,19 +122,17 @@ hotlantis：龙宫城
 
 禁翻词条
 //========乐队========
+Now or Never Seven
 Squid Squad
-Chirpy Chips
 Hightide Era
 Bob Dub
 DJ Lee Fish
 Turquoise October
 Wet Floor
 Bottom Feeders
-Ink Theory
 DJ Real Sole
 "ω-3"
 Dedf1sh
-Diss-Pair
 SashiMori
 "C-side"
 Front Roe
@@ -141,6 +141,11 @@ Octoplush
 H2Whoa
 Riot Act
 Free Association
+
+//========武器=======
+"N-ZAP'85"
+"N-ZAP'89"
+
 
 
 
